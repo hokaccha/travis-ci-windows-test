@@ -7,4 +7,6 @@ node_js:
 
 script:
   - which python
+  - which yarn
+  - which curl
   - echo $PATH
