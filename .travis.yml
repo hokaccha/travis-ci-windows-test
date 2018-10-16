@@ -6,7 +6,4 @@ node_js:
   - "10.12.0"
 
 script:
-  - which python
-  - which python2
-  - which python3
-  - which ruby
+  - ls -al /c/tools
