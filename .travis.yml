@@ -6,7 +6,4 @@ node_js:
   - "10.12.0"
 
 script:
-  - which python
-  - which yarn
-  - which curl
-  - echo $PATH
+  - find / -name 'python.exe'
