@@ -1,9 +1,7 @@
 os:
   - windows
 
-language: node_js
-node_js:
-  - "10.12.0"
+language: python
 
 script:
   - ls -al /c/tools
